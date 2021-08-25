@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Hi，Welcome to my open source world! 👋
+ 
+- 🤔🌱 Record their own code points.
+- 👯 Learn to reference the code style of the technical gurus.
+- 💬 Looking forward to the technical explanation of the gods.
 <!--
 **terryboy/terryboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
